@@ -794,5 +794,5 @@
 	<action itemid="12328" script="quests/wrath_of_the_emperor/mission09_the_sleeping_dragon_mixture.lua" />
 	<action itemid="12318" script="quests/wrath_of_the_emperor/mission10_a_message_of_freedom_sceptre.lua" />
 	<action uniqueid="3198" script="quests/wrath_of_the_emperor/mission11_payback_time_lever.lua" />
-	<action uniqueid="3200" script="quests/wrath_of_the_emperor/mission12_just_rewards.lua" />.
+	<action uniqueid="3200" script="quests/wrath_of_the_emperor/mission12_just_rewards.lua" />
 </actions>
