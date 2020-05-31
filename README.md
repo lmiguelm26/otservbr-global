@@ -31,8 +31,8 @@ OTServ Brasil - Global Server is a free and open-source MMORPG server emulator w
 We use the [issue tracker on GitHub](https://github.com/opentibiabr/OTServBR-Global/issues). Keep in mind that everyone who is watching the repository gets notified by e-mail when there is an activity, so be thoughtful and avoid writing comments that aren't meant for an issue (e.g. "+1"). If you'd like for an issue to be fixed faster, you should either fix it yourself and submit a pull request, or place a bounty on the issue.
 
 ### Special Thanks
-- our partners
-- our crew (majesty, gpedro, eduardo dantas)
+- our partners.
+- our crew (majesty, gpedro, eduardo dantas).
 - our testers (raphaellb, petardako, szulcek and olimpotibia)
 - [our contributors](https://github.com/opentibiabr/OTServBR-Global/graphs/contributors)
 - [fear lucien](https://github.com/FearLucien)
